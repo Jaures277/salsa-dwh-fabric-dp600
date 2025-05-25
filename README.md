@@ -21,4 +21,4 @@ Ce projet consiste à construire un Data Warehouse Lakehouse dans Microsoft Fabr
 - GitHub
 
 ## 📄 Rapport final
-Voir [rapport PDF](rapport/Rapport_DP600_Salsa_Fabric_Complet.docx)
+Voir [rapport PDF](rapport/Projet_DataAnalyse_Inscriptions_Cours_Danse.pdf)
