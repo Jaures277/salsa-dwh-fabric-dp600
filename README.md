@@ -20,11 +20,14 @@ Ce projet consiste à construire un Data Warehouse Lakehouse dans Microsoft Fabr
 - PySpark (notebooks)
 - GitHub
 
-## 📄 Pdf powerBi
-Voir [rapport PDF](powerbi/rapportanalysedanse.pdf)
+## 📄 Rapport powerBi
+Voir [rapportPowerBI PDF](powerbi/rapportanalysedanse.pdf)
+
+## 📄 Schema modele etoile
+Voir [rapportPowerBI PDF](powerbi/Screenshot_schema_modele_etoile.png)
 
 ## 📄 Fichier pbix powerBi
-Voir [rapport PDF](powerbi/rapportanalysedanse.pbix)
+Voir [fichier PBIX](powerbi/rapportanalysedanse.pbix)
 
 ## 📄 Rapport final
-Voir [rapport PDF](rapport/Projet_DataAnalyse_Inscriptions_Cours_Danse.pdf)
+Voir [rapport PDF](Projet_DataAnalyse_Inscriptions_Cours_Danse.pdf)
