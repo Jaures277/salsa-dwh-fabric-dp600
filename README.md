@@ -22,6 +22,3 @@ Ce projet consiste à construire un Data Warehouse Lakehouse dans Microsoft Fabr
 
 ## 📄 Rapport final
 Voir [rapport PDF](rapport/Rapport_DP600_Salsa_Fabric_Complet.docx)
-
-## 👤 Réalisé par :
-[Nom, Email, LinkedIn]
