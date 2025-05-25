@@ -24,7 +24,7 @@ Ce projet consiste à construire un Data Warehouse Lakehouse dans Microsoft Fabr
 Voir [rapportPowerBI PDF](powerbi/rapportanalysedanse.pdf)
 
 ## 📄 Schema modele etoile
-Voir [rapportPowerBI PDF](powerbi/Screenshot_schema_modele_etoile.png)
+Voir [SchemaModeleEtoile PNG](powerbi/Screenshot_schema_modele_etoile.png)
 
 ## 📄 Fichier pbix powerBi
 Voir [fichier PBIX](powerbi/rapportanalysedanse.pbix)
